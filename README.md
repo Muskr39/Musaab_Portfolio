@@ -1,5 +1,5 @@
 # Musaab_Portfolio
-My Portfolio
+I am a passionate and driven Engineering graduate with a strong interest in technology and innovation. I am experienced in applying cutting-edge solutions to solve complex challenges and skilled in data science, image processing, and AI techniques.
 
 # [Project 2: Development of Prediction Models to Detect the Presence of MGMT Promoter Methylation for Prognosis of Brain Tumor](https://github.com/Muskr39/MGMTp.git)
 * Created a tool that classifies MGMTp methylation status for the prognosis of brain tumor.
